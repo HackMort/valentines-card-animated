@@ -17,8 +17,10 @@ body {
   height: 533.3333333333px;
   -webkit-transform: perspective(1000px) translate(50%) scale(0.5) rotateY(0deg);
   transform: perspective(1000px) translate(50%) scale(0.5) rotateY(0deg);
+  -webkit-transform-origin: 50px center;
   transform-origin: 50px center;
   transition: 1s cubic-bezier(0, 0, 0, 0.94);
+  left: -100px
 }
 .card-wrapper .card .side {
   background: transparent;
