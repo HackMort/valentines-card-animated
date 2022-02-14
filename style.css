@@ -20,7 +20,7 @@ body {
   -webkit-transform-origin: 50px center;
   transform-origin: 50px center;
   transition: 1s cubic-bezier(0, 0, 0, 0.94);
-  left: -110px
+  left: -112px
 }
 .card-wrapper .card .side {
   background: transparent;
